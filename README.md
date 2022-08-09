@@ -49,19 +49,15 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" style="padding-right:10px;" /> 
   </a>
-  <img align="left" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" alt="gitHub" width="40" style="padding-right:10px;" />
-  <img align="left" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" alt="gitHub" width="40" style="padding-right:10px;" />
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="40" /> 
   </a>
-  <img align="left" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/34da99da98bc0b7a084ec5a6106a2516c0665644/img/terminal-light.svg#gh-light-mode-only" alt="terminal" width="40" style="padding-right:10px;" />
-  <img align="left" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/34da99da98bc0b7a084ec5a6106a2516c0665644/img/terminal-dark.svg#gh-dark-mode-only" alt="terminal" width="40" style="padding-right:10px;" />
 </div>
 
 <br />
 <br />
-<br />
 
+<div>
 <details>
   <summary> What i use/have used (<i>click to expand</i>)</summary>
   <!-- have to be followed by an empty line! -->
@@ -174,6 +170,7 @@
   </div>
   
 </details>
+</div>
 
 ---
 
