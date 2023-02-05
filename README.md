@@ -25,9 +25,6 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" style="padding-right:10px;" /> 
   </a>
-  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" style="padding-right:10px;" /> 
-  </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" style="padding-right:10px;" /> 
   </a> 
@@ -40,9 +37,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" style="padding-right:10px;" /> 
   </a> 
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40" style="padding-right:10px;" /> 
-  </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" style="padding-right:10px;" /> 
   </a> 
@@ -51,10 +45,7 @@
   </a>
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
     <img align="left" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime text" width="40" style="padding-right:10px;" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio code" width="40" style="padding-right:10px;" />
-  </a>
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" style="padding-right:10px;" /> 
   </a>
@@ -76,7 +67,7 @@
   ### 📋 Programming Languages :
   <div id="languages_badges">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-    <img src="(https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
