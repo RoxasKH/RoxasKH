@@ -1,4 +1,4 @@
-![](https://i.imgur.com/POpf5va.gif)
+![](catcode.gif)
 
 ### :man_technologist: About me :
 
