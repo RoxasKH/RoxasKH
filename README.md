@@ -16,11 +16,14 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" style="padding-right:10px;" /> 
   </a> 
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpack compose" width="40" style="padding-right:10px;" /> 
+  </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" style="padding-right:10px;" />
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" style="padding-right:10px;" /> 
+    <img align="left" src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="40" style="padding-right:10px;" /> 
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" style="padding-right:10px;" /> 
@@ -37,14 +40,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" style="padding-right:10px;" /> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" style="padding-right:10px;" /> 
-  </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" style="padding-right:10px;" /> 
   </a>
-  <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime text" width="40" style="padding-right:10px;" />
+  <a href="https://vscodium.com/" target="_blank" rel="noreferrer">
+    <img align="left" src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" width="40" style="padding-right:10px;" />
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" style="padding-right:10px;" /> 
