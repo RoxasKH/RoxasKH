@@ -9,50 +9,84 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div> 
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/> 
   </a> 
+  &nbsp;
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40"/> 
   </a> 
+  &nbsp;
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpack compose" width="40" style="padding-right:10px;" /> 
+    <img src="https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt="jetpack compose" width="40"/> 
   </a> 
+  &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" style="padding-right:10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
   </a> 
+  &nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="40" style="padding-right:10px;" /> 
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" width="40"/> 
   </a>
+  &nbsp;
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40"/> 
   </a>
+  &nbsp;
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40"/> 
   </a> 
+  &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40"/> 
   </a> 
+  &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40"/> 
   </a> 
+  &nbsp;
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40"/> 
+  </a> 
+  &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" style="padding-right:10px;" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/> 
   </a> 
+  &nbsp;
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="40"/> 
+  </a> 
+  &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typscript" width="40"/> 
+  </a> 
+  &nbsp;
+  <a href="https://it.legacy.reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40"/> 
+  </a> 
+  &nbsp;
+  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux-toolkit" width="40"/> 
+  </a> 
+  &nbsp;
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" style="padding-right:10px;" /> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"/> 
   </a>
+  &nbsp;
   <a href="https://vscodium.com/" target="_blank" rel="noreferrer">
-    <img align="left" src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" width="40" style="padding-right:10px;" />
+    <img src="https://vscodium.com/img/codium_cnl.svg" alt="vscodium" width="40"/>
   </a> 
+  &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" style="padding-right:10px;" /> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
   </a>
+  &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="40" /> 
+    <img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/128x128.svg" alt="bash" width="40"/> 
   </a>
-</div>
+  &nbsp;
+</p>
 
 <br />
 <br />
